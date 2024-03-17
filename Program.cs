@@ -1,59 +1,78 @@
-﻿Console.ForegroundColor =ConsoleColor.DarkYellow;
-Console.WriteLine("November Rain - Guns N' Rsoses");
+﻿Console.BackgroundColor =ConsoleColor.Gray;
+Console.ForegroundColor =ConsoleColor.DarkRed;
+Console.WriteLine("November Rain - Guns N' Roses");
 Console.ResetColor();
-Console.WriteLine("\nWhen I look into your eyes");
-Console.WriteLine("I can see a love restrained");
-Console.WriteLine("But darlin' when I hold you");
-Console.WriteLine("Don't you know I feel the same?\n");
-Console.ForegroundColor =ConsoleColor.Red;
-Console.WriteLine("\nNothin' lasts forever");
-Console.WriteLine("And we both know hearts can change");
-Console.WriteLine("And it's hard to hold a candle");
-Console.WriteLine("In the cold November rain\n");
+
+Console.WriteLine("");
+
+Console.WriteLine(@"When I look into your eyes
+I can see a love restrained
+But darlin' when I hold you
+Don't you know I feel the same?
+
+Nothin' lasts forever
+And we both know hearts can change");
+Console.BackgroundColor =ConsoleColor.Black;
+Console.ForegroundColor =ConsoleColor.DarkYellow;
+Console.Write(@"And it's hard to hold a candle
+In the cold November rain
+");
 Console.ResetColor();
-Console.WriteLine("\nWe've been through this such a long long time");
-Console.WriteLine("Just tryin' to kill the pain, ooh yeah");
-Console.WriteLine("Love is always coming, love is always going");
-Console.WriteLine("No one's really sure who's lettin' go today");
-Console.WriteLine("Walking away\n");
-Console.WriteLine("\nIf we could take the time to lay it on the line");
-Console.WriteLine("I could rest my head just knowin' that you were mine");
-Console.WriteLine("All mine");
-Console.WriteLine("So if you want to love me then darlin' don't refrain");
-Console.WriteLine("Or I'll just end up walkin' in the cold November rain\n");
-Console.WriteLine("\nDo you need some time on your own?");
-Console.WriteLine("Do you need some time all alone?");
-Console.WriteLine("Ooh, everybody needs some time on their own");
-Console.WriteLine("Ooh, don't you know you need some time all alone\n");
-Console.WriteLine("\nI know it's hard to keep an open heart");
-Console.WriteLine("When even friends seem out to harm you");
-Console.WriteLine("But if you could heal a broken heart");
-Console.WriteLine("Wouldn't time be out to charm you?");
-Console.WriteLine("Oh, oh, oh\n");
-Console.WriteLine("\nSometimes I need some time on my own");
-Console.WriteLine("Sometimes I need some time all alone");
-Console.WriteLine("Ooh, everybody needs some time on their own");
-Console.WriteLine("Ooh, don't you know you need some time all alone\n");
-Console.WriteLine("\nAnd when your fears subside");
-Console.WriteLine("And shadows still remain, oh yeah");
-Console.WriteLine("I know that you can love me when there's no one left to blame");
-Console.WriteLine("So never mind the darkness, we still can find a way");
-Console.WriteLine("'Cause nothin' lasts forever, even cold November rain\n");
-Console.WriteLine("\nDon't ya think that you need somebody?");
-Console.WriteLine("Don't ya think that you need someone?");
-Console.WriteLine("Everybody needs somebody");
-Console.WriteLine("You're not the only one");
-Console.WriteLine("You're not the only one\n");
-Console.WriteLine("\nDon't ya think that you need somebody?");
-Console.WriteLine("Don't ya think that you need someone?");
-Console.WriteLine("Everybody needs somebody");
-Console.WriteLine("You're not the only one");
-Console.WriteLine("You're not the only one\n");
-Console.WriteLine("\nDon't ya think that you need somebody?");
-Console.WriteLine("Don't ya think that you need someone?");
-Console.WriteLine("Everybody needs somebody");
-Console.WriteLine("You're not the only one");
-Console.WriteLine("You're not the only one\n");
-Console.WriteLine("\nDon't ya think that you need somebody?");
-Console.WriteLine("Don't ya think that you need someone?");
-Console.WriteLine("Everybody needs somebody");
+
+Console.WriteLine("");
+
+Console.WriteLine(@"We've been through this such a long long time
+Just tryin' to kill the pain, ooh yeah
+Love is always coming, love is always going
+No one's really sure who's lettin' go today
+Walking away
+
+If we could take the time to lay it on the line
+I could rest my head just knowin' that you were mine
+All mine
+So if you want to love me then darlin' don't refrain
+Or I'll just end up walkin' in the cold November rain
+
+Do you need some time on your own?
+Do you need some time all alone?
+Ooh, everybody needs some time on their own
+Ooh, don't you know you need some time all alone
+
+I know it's hard to keep an open heart
+When even friends seem out to harm you
+But if you could heal a broken heart
+Wouldn't time be out to charm you?
+Oh, oh, oh
+
+Sometimes I need some time on my own
+Sometimes I need some time all alone
+Ooh, everybody needs some time on their own
+Ooh, don't you know you need some time all alone
+
+And when your fears subside
+And shadows still remain, oh yeah
+I know that you can love me when there's no one left to blame
+So never mind the darkness, we still can find a way
+'Cause nothin' lasts forever, even cold November rain
+
+Don't ya think that you need somebody?
+Don't ya think that you need someone?
+Everybody needs somebody
+You're not the only one
+You're not the only one
+
+Don't ya think that you need somebody?
+Don't ya think that you need someone?
+Everybody needs somebody
+You're not the only one
+You're not the only one
+
+Don't ya think that you need somebody?
+Don't ya think that you need someone?
+Everybody needs somebody
+You're not the only one
+You're not the only one
+
+Don't ya think that you need somebody?
+Don't ya think that you need someone?
+Everybody needs somebody");
